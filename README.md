@@ -26,7 +26,6 @@ Target audiences :
 >__stake holders__ :     This allows them to set prices according to the nutrition rank.
 
 # Result :
-===
 
 Due high amonut of calories,carbohidrates & iron the _2 labeled_ cluster/coffees are "The most nutrisious" hence, they'll be awarded with __5/5 Star Rank rating.__
 
