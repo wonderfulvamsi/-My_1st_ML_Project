@@ -25,15 +25,15 @@ Target audiences :
 
 >__stake holders__ :     This allows them to set prices according to the nutrition rank.
 
-Result :
+# Result :
 ===
 
-__Here we observe that the 1'st labeled cluster/coffees are "The most nutrisious",i.e they'll be awarded with 5/5 Star Rank rating.__
+Due high amonut of calories,carbohidrates & iron the _2 labeled_ cluster/coffees are "The most nutrisious" hence, they'll be awarded with __5/5 Star Rank rating.__
 
-Then comes 3'rd labeled cluster/coffees are The best coffees with lowest "caffine" content in them,hence they are awarded with __4/5 Star Rank rating__.
+Then comes _4 labeled_ cluster/coffees which have heighest amount of protiens & calcium, hence they are awarded with __4/5 Star Rank rating__.
 
-The __3/5 Star Rank rating__ can be give to The 4'th labeled cluster/coffees which are "rich in Carbohydrates"
+The __3/5 Star Rank rating__ can be give to The _3 labeled_ cluster/coffees which are "rich in calories & sodium ".
 
-The __2/5 Star Rank rating__ can be give to The 2'nd labeled cluster/coffees which are for mostly "new" coustemers..
+The __2/5 Star Rank rating__ can be give to The _1 labeled_ cluster/coffees which have less amount of caffine.
 
-The __1/5 Star Rank rating__ can be give to The 5'th labeled cluster/coffees which are for those who are in "need of Caffeine" which is not recommendble for a good health..
+The __1/5 Star Rank rating__ can be give to The _5 labeled_ cluster/coffees which contains least amount of calories & heighest number of caffine.
