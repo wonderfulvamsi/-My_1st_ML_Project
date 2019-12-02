@@ -25,6 +25,9 @@ Target audiences :
 
 >__stake holders__ :     This allows them to set prices according to the nutrition rank.
 
+# Clustering the coffees:
+![alt text](https://github.com/wonderfulvamsi/-My_1st_ML_Project/blob/master/Capture.JPG)
+
 # Result :
 
 Due high amonut of calories,carbohidrates & iron the _2 labeled_ cluster/coffees are "The most nutrisious" hence, they'll be awarded with __5/5 Star Rank rating.__
